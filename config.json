@@ -1,0 +1,10 @@
+{
+"user_to_monitor": "xxx",
+"email_to_notify": "xxx",
+"brevoapikey": "xxx",
+"interval_in_seconds": 3,
+"SF_instance_url": "https://login.salesforce.com",
+"SF_username": "xxx",
+"Production": true
+}
+
