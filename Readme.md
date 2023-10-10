@@ -32,3 +32,9 @@ You can also use python:
   keyring.set_password("SF_Monitor", "SF_Password", <your_password>)
   keyring.set_password("SF_Monitor", "SF_Token", <your_token>)
 ```
+
+5) Run it and make sure to don't close the terminal:
+
+```bash
+python3 prod_monitor.py
+```
